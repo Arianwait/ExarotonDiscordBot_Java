@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>kz.awsstudio.discordbot.maincraftserver</groupId>
+  <artifactId>kz.awsstudio.discordbot.maincraftserver</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>kz.awsstudio.discordbot.maincraftserver</name>
+  
+	<dependencies>
+<!-- https://mvnrepository.com/artifact/net.dv8tion/JDA -->
+		<dependency>
+    		<groupId>net.dv8tion</groupId>
+    		<artifactId>JDA</artifactId>
+    		<version>5.0.2</version>
+		</dependency>
+<!-- https://mvnrepository.com/artifact/com.exaroton/api -->
+<dependency>
+    <groupId>com.exaroton</groupId>
+    <artifactId>api</artifactId>
+    <version>v1.5.2</version>
+</dependency>
+
+	</dependencies>
+	    
+</project>
